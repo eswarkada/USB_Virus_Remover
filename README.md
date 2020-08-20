@@ -1,5 +1,5 @@
 # USB_Virus_Remover
-It is very easy to work. Try it
+Try it
 
 
 First bat file copy into the USB Driver
